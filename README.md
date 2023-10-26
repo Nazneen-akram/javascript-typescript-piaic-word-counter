@@ -14,12 +14,16 @@ This is a simple Node.js command-line tool that allows you to count the number o
 ```bash
 npm install # To install the required dependencies (Inquirer)
 npm start    # To run the Word and Character Count tool
-
+```
 You will then be prompted to enter a sentence:
 ```bash
 ? Enter a sentence: This is a sample sentence for counting words and characters.
+```
 After entering the sentence, you'll see the output:
 ```bash
 The sentence contains 9 words and 47 characters.
+```
+## Author
+Nazneen Akram
 
 
